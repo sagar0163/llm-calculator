@@ -2,3 +2,4 @@
 - Performance
 - UI improvements
 - API integration
+- CLI improvements

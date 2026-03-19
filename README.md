@@ -51,3 +51,4 @@ python calculator.py
 ## Usage
 ## License
 - MIT License
+## API

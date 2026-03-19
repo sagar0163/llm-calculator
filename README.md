@@ -53,3 +53,4 @@ python calculator.py
 - MIT License
 ## API
 - GET /calculate
+- POST /api/calculate

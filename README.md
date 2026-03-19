@@ -48,3 +48,4 @@ python calculator.py
 # Update
 # LLM Calculator
 - Updated
+## Usage

@@ -54,3 +54,4 @@ python calculator.py
 ## API
 - GET /calculate
 - POST /api/calculate
+- npm run dev

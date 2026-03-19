@@ -50,3 +50,4 @@ python calculator.py
 - Updated
 ## Usage
 ## License
+- MIT License

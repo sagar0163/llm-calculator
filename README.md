@@ -55,3 +55,4 @@ python calculator.py
 - GET /calculate
 - POST /api/calculate
 - npm run dev
+- supports multiple providers

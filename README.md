@@ -49,3 +49,4 @@ python calculator.py
 # LLM Calculator
 - Updated
 ## Usage
+## License
